@@ -1,5 +1,0 @@
-M mole
-N newt
-O ocelot
-P panda
-T tiger
